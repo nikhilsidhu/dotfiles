@@ -55,6 +55,5 @@ brew "microsoft/mssql-release/msodbcsql17"
 brew "microsoft/mssql-release/mssql-tools"
 # Sans-serif, slab-serif, monospace and quasi‑proportional typeface family
 cask "font-iosevka"
-cask "alfred"
 cask "visual-studio-code"
 cask "google-chrome"
